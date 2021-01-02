@@ -30,10 +30,9 @@ Just plug in the Rubber Ducky and wait. After the script runs, it'll lock the us
 - Change **#GMAIL#** to your Gmail account
 - Change **#PASSWORD#** to your Gmail password!
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+# WARNING
+This version will not make you "invisible" to the system admin. It doesn't delete all the downladed files and leaves basic traces. If you'd like to get the safe version contact me on Instagram: @nejc03
 
 ## Copyright
 [Nejc Pirečnik](https://github.com/nejcpirecnik) Creator
