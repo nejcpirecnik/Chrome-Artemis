@@ -1,5 +1,7 @@
 # Chrome Artemis
 
+![Logo](https://i.imgur.com/gX6yvMH.png)
+
 ## WARNING: The script is encoded with a United States Keyboard layout! If you are not using a USA layout, you need to encode the .txt file I provided on your own!
 
 ### For educational purposes only! I am not responsible for anything you do!
