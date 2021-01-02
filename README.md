@@ -21,7 +21,7 @@ You can also:
 
 ## Installation
 
-You don't need Twin uck! All files are downloaded from the web. Just drop the **inject.bin** file on your rubber ducky and you're ready to go!
+You don't need Twin Duck! All files are downloaded from the web. Just drop the **inject.bin** file on your rubber ducky and you're ready to go!
 
 
 ## Usage
