@@ -1,4 +1,4 @@
-# Chrome Artemis
+# Chrome Artemis for Rubber Ducky
 
 ![Logo](https://i.imgur.com/gX6yvMH.png)
 
