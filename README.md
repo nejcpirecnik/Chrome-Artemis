@@ -4,7 +4,7 @@
 
 ### For educational purposes only! I am not responsible for anything you do!
 
-If you'd like to support me, you can buy me a coffee here: paypal.me/ganks1lent
+If you'd like to support me, you can buy me a coffee here: paypal.me/ganks1lent :) Thank you!
 
 **Chrome Artemis** is a script built for the Ruber Ducky that collects saved passwords from a machine and emails them to your Gmail address!
 
