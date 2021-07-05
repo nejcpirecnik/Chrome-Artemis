@@ -2,6 +2,8 @@
 
 ![Logo](https://i.imgur.com/gX6yvMH.png)
 
+### THIS PROJECT IS CANCELED! I MIGHT FIX IT IN THE FUTURE, WHEN I HAVE THE TIME. IN THIS STATE, IT WILL NOT WORK.
+
 ### For educational purposes only! I am not responsible for anything you do!
 
 If you'd like to support me, you can buy me a coffee here: paypal.me/ganks1lent :) Thank you!
@@ -40,5 +42,3 @@ Just plug in the Rubber Ducky and wait. After the script runs, it'll lock the us
 
 ## Copyright
 [Nejc Pirečnik](https://github.com/nejcpirecnik) Creator
-
-For more info contact me on Instagram: @nejc03
